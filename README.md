@@ -1,2 +1,2 @@
 # invie-github
-Práctica de gituhub creando 'invie'
+Práctica de gituhub creando 'invie' by Platzi
